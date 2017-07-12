@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>biz</title>
+		<dateModified>Mon, 13 Mar 2017 02:42:55 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>6</lastCursor>
+		<ownerTwitterScreenName>oevl</ownerTwitterScreenName>
+		<ownerName>Omar Vasquez Lima</ownerName>
+		<ownerId>http://twitter.com/oevl</ownerId>
+		<urlUpdateSocket>ws://1999.oevl.tk:2000/</urlUpdateSocket>
+		</head>
+	<body>
+		<outline text="Estrategia y Negocios - Panama" created="Mon, 13 Mar 2017 01:43:13 GMT" name="Estrategia&amp; Negocios - Panamá Negocios" title="Estrategia &amp; Negocios - Panamá Negocios" type="rss" xmlUrl="http://www.laprensa.hn/csp/mediapool/sites/LaPrensa/assets/csp/RssFeed.csp?pub=EN&amp;section=/CentroAmericayMundo/CentroAmerica/Panama/PANegocios/"/>
+		<outline text="Estrategia &amp; Negocios - Centroamérica y Mundo" created="Mon, 13 Mar 2017 01:43:13 GMT" name="Estrategia &amp; Negocios - Centroamérica y Mundo" title="Estrategia &amp; Negocios - Centroamérica y Mundo" type="rss" xmlUrl="http://www.laprensa.hn/csp/mediapool/sites/LaPrensa/assets/csp/RssFeed.csp?pub=EN&amp;section=/CentroAmericayMundo/"/>
+		<outline text="Capital Emprendedor/Venture Capital (Lorenzo Lara)" created="Mon, 13 Mar 2017 01:43:13 GMT" name="Estrategia &amp; Negocios - Centroamérica y Mundo" title="Estrategia &amp; Negocios - Centroamérica y Mundo" type="rss" xmlUrl="https://capitalemprendedorlatam.wordpress.com/feed/" htmlUrl="https://capitalemprendedorlatam.wordpress.com/"/>
+		<outline text="Carpenter´s Toolbox" created="Mon, 13 Mar 2017 01:43:13 GMT" name="Carpenter´s Toolbox" title="Carpenter´s Toolbox" type="rss" xmlUrl="https://carpenterstrategytoolbox.com/feed/" htmlUrl="https://carpenterstrategytoolbox.com/"/>
+		<outline text="Queryfeed #managment" created="Mon, 13 Mar 2017 01:43:13 GMT" name="Queryfeed #management" title="Queryfeed #management" type="rss" xmlUrl="https://queryfeed.net/twitter?q=%23management&amp;title-type=tweet-text-full&amp;geocode=" htmlUrl="https://queryfeed.net/"/>
+		<outline text="Queryfeed Twitter #strategy" created="Mon, 13 Mar 2017 01:43:13 GMT" name="Queryfeed #strategy" title="Queryfeed #strategy" type="rss" xmlUrl="https://queryfeed.net/twitter?q=%23strategy&amp;title-type=tweet-text-full&amp;geocode=" htmlUrl="https://queryfeed.net/"/>
+		<outline text="Queryfeed Twitter Pages #strategy" created="Mon, 13 Mar 2017 01:43:13 GMT" name="Queryfeed Twitter Pages #strategy" title="Queryfeed Twitter Pages #strategy" type="rss" xmlUrl="https://queryfeed.net/tw?q=%23strategy" htmlUrl="https://queryfeed.net/"/>
+		</body>
+	</opml>
