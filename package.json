@@ -6,7 +6,7 @@
 	"homepage": "https://github.com/scripting/river5",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/scripting/river5"
+		"url": "https://github.com/oevl/river5"
 		},
 	"scripts": {
 		"start": "node river5.js"
