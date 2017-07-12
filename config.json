@@ -1,5 +1,6 @@
 {
 	"maxRiverItems": 300,
+	"httpPort":1339,
 	"homePage": { 
 		"panels": [
 			{
@@ -13,7 +14,16 @@
 			{
 				"title": "Hacker News",
 				"river": "hn.js"
-				}
+				},
+			{
+				"title":"Apple",
+				"river":"apple.txt"
+				},
+			{
+				"title":"Venezuela",
+				"river":"VE.opml"
+				}	
+
 			]
 		}
 	}
